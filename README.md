@@ -1,5 +1,3 @@
-Here’s a professional and well-structured `README.md` file for your **Contacts App** built with React:
-
 ---
 
 # 📇 Contacts App
